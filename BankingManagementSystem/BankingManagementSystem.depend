@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1545600040 source:c:\users\aster\documents\dev-c++\bankingmanagementsystem\src\account.cpp
+	"Account.h"
+
+1545943535 c:\users\aster\documents\dev-c++\bankingmanagementsystem\include\account.h
+	<cstring>
+
+1545945776 source:c:\users\aster\documents\dev-c++\bankingmanagementsystem\src\accountbinaryclient.cpp
+	"AccountBinaryClient.h"
+
+1545945753 c:\users\aster\documents\dev-c++\bankingmanagementsystem\include\accountbinaryclient.h
+	"IBinaryClient.h"
+
+1545945768 c:\users\aster\documents\dev-c++\bankingmanagementsystem\include\ibinaryclient.h
+
+1545945996 source:c:\users\aster\documents\dev-c++\bankingmanagementsystem\main.cpp
+	<iostream>
+	"Customer.h"
+	"CustomerBinaryClient.h"
+	<memory>
+	<cstring>
+
+1545945465 c:\users\aster\documents\dev-c++\bankingmanagementsystem\include\customer.h
+
+1545946035 c:\users\aster\documents\dev-c++\bankingmanagementsystem\include\customerbinaryclient.h
+	"Customer.h"
+	"IBinaryClient.h"
+	<iostream>
+	<fstream>
+
+1545946015 source:c:\users\aster\documents\dev-c++\bankingmanagementsystem\src\customer.cpp
+	"Customer.h"
+	<iostream>
+
+1545600124 source:c:\users\aster\documents\dev-c++\bankingmanagementsystem\src\ibinaryclient.cpp
+	"IBinaryClient.h"
+
+1545946079 source:c:\users\aster\documents\dev-c++\bankingmanagementsystem\src\strings.cpp
+	"Strings.h"
+
+1545944508 c:\users\aster\documents\dev-c++\bankingmanagementsystem\include\strings.h
+
